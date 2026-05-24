@@ -35,7 +35,7 @@ Medicita/
 
 | Tipo | Email | Contraseña | Rol |
 |------|-------|-----------|-----|
-| Administrador | `admin@medicita.com` | `Medilaser2026*` | Administrador |
+| Administrador | `admin@medicita.com` | `Test1234!` | Administrador |
 | Médico | `carlos@medicita.com` | `Test1234!` | Médico |
 | Médico | `maria@medicita.com` | `Test1234!` | Médico |
 | Paciente | `ana@medicita.com` | `Test1234!` | Paciente |

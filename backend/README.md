@@ -62,13 +62,7 @@ http://localhost:4000/api-docs
 - Contraseña: `medicita_password`
 - Base de datos: `medicita_db`
 
-### Seeders iniciales
-La base de datos se inicializa automáticamente con:
-- Usuarios de prueba (admin, médicos, pacientes)
-- Especialidades médicas
-- Consultorios
-- Agendas de médicos
-- Citas de ejemplo
+
 
 ## 📝 Variables de entorno
 
